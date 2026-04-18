@@ -39,7 +39,8 @@ dotnet run -- 10 5 7
 
 
 # 📝 Relatório de Implementação
-# Introdução
+
+## Introdução
 O Algoritmo do Banqueiro é uma técnica de prevenção de deadlocks. Ele trabalha simulando a alocação de recursos e verificando se, após essa alocação, ainda existe uma sequência segura onde todos os processos conseguem terminar as suas tarefas.
 
 ## Desenvolvimento
