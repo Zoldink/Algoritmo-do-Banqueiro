@@ -1,0 +1,14 @@
+C:\Users\Ericgomes\Downloads\Trabalho SO\bin\Debug\net10.0\Trabalho SO.exe
+C:\Users\Ericgomes\Downloads\Trabalho SO\bin\Debug\net10.0\Trabalho SO.deps.json
+C:\Users\Ericgomes\Downloads\Trabalho SO\bin\Debug\net10.0\Trabalho SO.runtimeconfig.json
+C:\Users\Ericgomes\Downloads\Trabalho SO\bin\Debug\net10.0\Trabalho SO.dll
+C:\Users\Ericgomes\Downloads\Trabalho SO\bin\Debug\net10.0\Trabalho SO.pdb
+C:\Users\Ericgomes\Downloads\Trabalho SO\obj\Debug\net10.0\Trabalho SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ericgomes\Downloads\Trabalho SO\obj\Debug\net10.0\Trabalho SO.AssemblyInfoInputs.cache
+C:\Users\Ericgomes\Downloads\Trabalho SO\obj\Debug\net10.0\Trabalho SO.AssemblyInfo.cs
+C:\Users\Ericgomes\Downloads\Trabalho SO\obj\Debug\net10.0\Trabalho SO.csproj.CoreCompileInputs.cache
+C:\Users\Ericgomes\Downloads\Trabalho SO\obj\Debug\net10.0\Trabalho SO.dll
+C:\Users\Ericgomes\Downloads\Trabalho SO\obj\Debug\net10.0\refint\Trabalho SO.dll
+C:\Users\Ericgomes\Downloads\Trabalho SO\obj\Debug\net10.0\Trabalho SO.pdb
+C:\Users\Ericgomes\Downloads\Trabalho SO\obj\Debug\net10.0\Trabalho SO.genruntimeconfig.cache
+C:\Users\Ericgomes\Downloads\Trabalho SO\obj\Debug\net10.0\ref\Trabalho SO.dll
